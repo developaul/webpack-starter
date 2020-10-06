@@ -2,7 +2,7 @@
 Este es el proyecto inicial para crear aplicaciones utilizando webpack.
 
 
-## Nota
+## Notas:
 Para reconstruir los módulos de node se debe de ejecutar este comando
 
 ```
